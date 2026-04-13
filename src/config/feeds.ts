@@ -84,6 +84,7 @@ export const SOURCE_TYPES: Record<string, SourceType> = {
   // New verified think tanks
   'War on the Rocks': 'intel', 'AEI': 'intel', 'Responsible Statecraft': 'intel',
   'FPRI': 'intel', 'Jamestown': 'intel',
+  'Drop Site News': 'intel',
 
   // Podcasts & Newsletters
   'Acquired Podcast': 'tech', 'All-In Podcast': 'tech', 'a16z Podcast': 'tech',
