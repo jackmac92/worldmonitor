@@ -114,6 +114,7 @@ export const VARIANT_FEEDS: Record<string, Record<string, ServerFeed[]>> = {
       { name: 'Foreign Affairs', url: 'https://www.foreignaffairs.com/rss.xml' },
       { name: 'War on the Rocks', url: 'https://warontherocks.com/feed/' },
       { name: 'CSIS', url: 'https://www.csis.org/rss.xml' },
+      { name: 'Drop Site News', url: 'https://www.dropsitenews.com/feed' },
     ],
     crisis: [
       { name: 'CrisisWatch', url: 'https://www.crisisgroup.org/rss' },
