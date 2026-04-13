@@ -296,5 +296,6 @@ export default [
   "bitcoinmagazine.com",
   "www.dlnews.com",
   "cryptoslate.com",
-  "unchainedcrypto.com"
+  "unchainedcrypto.com",
+  "www.dropsitenews.com"
 ];

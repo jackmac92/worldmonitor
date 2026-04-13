@@ -338,6 +338,8 @@ const FULL_FEEDS: Record<string, Feed[]> = {
     { name: 'FPRI', url: rss('https://www.fpri.org/feed/') },
     // Jamestown Foundation - Eurasia/China/Terrorism analysis
     { name: 'Jamestown', url: rss('https://jamestown.org/feed/') },
+    // Drop Site News - Investigative journalism covering national security, war, and US politics
+    { name: 'Drop Site News', url: rss('https://www.dropsitenews.com/feed') },
   ],
   crisis: [
     { name: 'CrisisWatch', url: rss('https://www.crisisgroup.org/rss') },
